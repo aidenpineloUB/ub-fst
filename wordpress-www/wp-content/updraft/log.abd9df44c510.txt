@@ -1,0 +1,329 @@
+0000.004 (0) Opened log file at time: Fri, 26 Apr 2024 06:30:45 +0000 on http://localhost:8000
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.2 WP: 6.4.3 PHP: 8.2.17 (apache2handler, Linux 62168f85fa11 5.15.146.1-microsoft-standard-WSL2 #1 SMP Thu Jan 11 04:09:03 UTC 2024 x86_64) MySQL: 5.7.44 (max packet size=4194304) WPLANG: en_US Server: Apache/2.4.57 (Debian) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 4.5M | 6M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.008 (0) Free space on disk containing Updraft's temporary directory: 91689.3 MB
+0000.017 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.027 (0) Semaphore (fd, wp_options) being initialised
+0000.033 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.041 (0) Set semaphore last lock (fd) time to 2024-04-26 06:30:45
+0000.042 (0) Semaphore lock (fd) complete
+0000.050 (0) Backup run: resumption=0, nonce=abd9df44c510, file_nonce=abd9df44c510 begun at=1714113045 (0s ago), job type=backup
+0000.053 (0) Scheduling a resumption (1) after 300 seconds (1714113345) in case this run gets aborted
+0000.098 (0) Checking if we have a zip executable available
+0000.103 (0) Creation of backups of directories: beginning
+0000.112 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0006.546 (0) Total entities for the zip file: 598 directories, 4106 files (0 skipped as non-modified), 113.3 MB
+0006.570 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0008.173 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 100 files added (on-disk size: 109.4 KB)
+0009.417 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 200 files added (on-disk size: 109.4 KB)
+0009.950 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 235 (236) files added so far); re-opening (prior size: 109.4 KB)
+0016.804 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 300 files added (on-disk size: 590.8 KB)
+0017.914 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 146 (382) files added so far); re-opening (prior size: 590.8 KB)
+0023.205 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 400 files added (on-disk size: 859.5 KB)
+0024.508 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 500 files added (on-disk size: 859.5 KB)
+0025.915 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.4 MB, 215 (597) files added so far); re-opening (prior size: 859.5 KB)
+0030.905 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 600 files added (on-disk size: 1954.9 KB)
+0032.657 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 700 files added (on-disk size: 1954.9 KB)
+0032.906 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 117 (714) files added so far); re-opening (prior size: 1954.9 KB)
+0038.998 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 800 files added (on-disk size: 2534.4 KB)
+0039.912 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.4 MB, 136 (850) files added so far); re-opening (prior size: 2534.4 KB)
+0047.282 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 900 files added (on-disk size: 4163.7 KB)
+0048.923 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 127 (977) files added so far); re-opening (prior size: 4163.7 KB)
+0055.273 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 1000 files added (on-disk size: 4367.1 KB)
+0056.874 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 1100 files added (on-disk size: 4367.1 KB)
+0056.916 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 125 (1102) files added so far); re-opening (prior size: 4367.1 KB)
+0062.112 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 1200 files added (on-disk size: 4569.6 KB)
+0062.911 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 147 (1249) files added so far); re-opening (prior size: 4569.6 KB)
+0065.491 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 1300 files added (on-disk size: 5504.4 KB)
+0066.601 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 1400 files added (on-disk size: 5504.4 KB)
+0066.907 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.6 MB, 177 (1426) files added so far); re-opening (prior size: 5504.4 KB)
+0072.326 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 1500 files added (on-disk size: 8863.1 KB)
+0073.491 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 1600 files added (on-disk size: 8863.1 KB)
+0073.912 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.9 MB, 205 (1631) files added so far); re-opening (prior size: 8863.1 KB)
+0079.348 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 1700 files added (on-disk size: 9672.9 KB)
+0080.913 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 148 (1779) files added so far); re-opening (prior size: 9672.9 KB)
+0088.994 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 1800 files added (on-disk size: 9989.7 KB)
+0090.365 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 1900 files added (on-disk size: 9989.7 KB)
+0090.907 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.5 MB, 172 (1951) files added so far); re-opening (prior size: 9989.7 KB)
+0096.620 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 2000 files added (on-disk size: 11380.2 KB)
+0097.916 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 131 (2082) files added so far); re-opening (prior size: 11380.2 KB)
+0102.788 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 2100 files added (on-disk size: 11835.4 KB)
+0104.527 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 2200 files added (on-disk size: 11835.4 KB)
+0104.914 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.8 MB, 146 (2228) files added so far); re-opening (prior size: 11835.4 KB)
+0111.106 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 2300 files added (on-disk size: 14466 KB)
+0111.903 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.8 MB, 116 (2344) files added so far); re-opening (prior size: 14466 KB)
+0117.965 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 2400 files added (on-disk size: 16934.1 KB)
+0118.905 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (14 MB, 110 (2454) files added so far); re-opening (prior size: 16934.1 KB)
+0127.331 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 2500 files added (on-disk size: 21572.7 KB)
+0128.481 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 2600 files added (on-disk size: 21572.7 KB)
+0128.907 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.2 MB, 192 (2646) files added so far); re-opening (prior size: 21572.7 KB)
+0135.770 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 2700 files added (on-disk size: 24787.1 KB)
+0137.139 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 2800 files added (on-disk size: 24787.1 KB)
+0137.622 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (31.9 MB, 4106 files batched, 192 (2838) added so far); re-opening (prior size: 24787.1 KB)
+0148.523 (0) A useful amount of data was added after this amount of zip processing: 13.6 s (normalised: 10.7 s, rate: 2401.3 KB/s)
+0149.320 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 2900 files added (on-disk size: 35017.4 KB)
+0150.347 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 3000 files added (on-disk size: 35017.4 KB)
+0150.910 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 208 (3046) files added so far); re-opening (prior size: 35017.4 KB)
+0157.509 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 3100 files added (on-disk size: 36607.1 KB)
+0158.508 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 3200 files added (on-disk size: 36607.1 KB)
+0158.910 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (14.6 MB, 187 (3233) files added so far); re-opening (prior size: 36607.1 KB)
+0167.088 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 3300 files added (on-disk size: 40359.4 KB)
+0168.919 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 167 (3400) files added so far); re-opening (prior size: 40359.4 KB)
+0175.418 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 3400 files added (on-disk size: 41178.1 KB)
+0177.602 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 3500 files added (on-disk size: 41178.1 KB)
+0177.918 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 112 (3512) files added so far); re-opening (prior size: 41178.1 KB)
+0186.086 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 3600 files added (on-disk size: 41434.6 KB)
+0186.914 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 135 (3647) files added so far); re-opening (prior size: 41434.6 KB)
+0194.572 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 3700 files added (on-disk size: 41647.2 KB)
+0195.902 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 129 (3776) files added so far); re-opening (prior size: 41647.2 KB)
+0202.990 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 3800 files added (on-disk size: 42068 KB)
+0204.908 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 117 (3893) files added so far); re-opening (prior size: 42068 KB)
+0211.686 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 3900 files added (on-disk size: 42164.5 KB)
+0213.780 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 4000 files added (on-disk size: 42164.5 KB)
+0213.924 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 114 (4007) files added so far); re-opening (prior size: 42164.5 KB)
+0222.457 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.tmp: 4100 files added (on-disk size: 42345.9 KB)
+0229.250 (0) Creating zip file manifest (backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.list-temp.tmp)
+0230.228 (0) Successfully created zip file manifest (size: 362561)
+0232.590 (0) Created plugins zip (0) - 42805.8 KB in 232.5 s (184.1 KB/s) (sha1: ab5e68b8da993564d6c0b94f02e0c6de83d32fb1, sha256: 3b03be2a326e4aeb01de98079b54686a3af989dc9bedde08b0853f02b8b75fbe)
+0232.611 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0232.613 (0) No remote despatch: user chose no remote backup service
+0232.615 (0) Recording as successfully uploaded: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip
+0232.618 (0) Deleting zip manifest (backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip.list.tmp)
+0232.624 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0232.625 (0) Number of backup sets in history: 0; groups (db): 1
+0232.627 (0) Number of backup sets in history: 0; groups (files): 1
+0232.628 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0232.651 (0) Beginning creation of dump of themes (split every: 400 MB)
+0233.085 (0) Total entities for the zip file: 39 directories, 291 files (0 skipped as non-modified), 12.1 MB
+0234.494 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0234.917 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.2 MB, 118 (118) files added so far); re-opening (prior size: 0 KB)
+0237.648 (0) Zip: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-themes.zip.tmp: 200 files added (on-disk size: 3757.5 KB)
+0243.366 (0) Creating zip file manifest (backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-themes.zip.list-temp.tmp)
+0243.423 (0) Successfully created zip file manifest (size: 20630)
+0244.037 (0) Created themes zip (0) - 11103.9 KB in 11.4 s (976.3 KB/s) (sha1: 90066765bafa13826dc47f3985a0ad48dd6a70fc, sha256: 92601edcc94957d7e0db5df7479540a5335af65fc4d4d8e9958279675b4329b5)
+0244.058 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0244.061 (0) No remote despatch: user chose no remote backup service
+0244.063 (0) Recording as successfully uploaded: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-themes.zip
+0244.067 (0) Deleting zip manifest (backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-themes.zip.list.tmp)
+0244.073 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0244.075 (0) Number of backup sets in history: 0; groups (db): 1
+0244.077 (0) Number of backup sets in history: 0; groups (files): 1
+0244.079 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0244.095 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0244.097 (0) Looking for candidates to backup in: /var/www/html/wp-content/uploads
+0244.101 (0) finding files: 2024: adding to list (1)
+0244.104 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0244.141 (0) Total entities for the zip file: 2 directories, 3 files (0 skipped as non-modified), 0.2 MB
+0244.275 (0) Creating zip file manifest (backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-uploads.zip.list-temp.tmp)
+0244.281 (0) Successfully created zip file manifest (size: 187)
+0244.318 (0) Created uploads zip (0) - 234.3 KB in 0.2 s (1183.4 KB/s) (sha1: d6c4179bd1df2bfcbbb70889ca8eaf06e4bad1d3, sha256: 99492c9e5d5cf26341befd22475f0b521ef6e777023dca3a591b6c41d44e9397)
+0244.337 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0244.340 (0) No remote despatch: user chose no remote backup service
+0244.342 (0) Recording as successfully uploaded: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-uploads.zip
+0244.346 (0) Deleting zip manifest (backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-uploads.zip.list.tmp)
+0244.352 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0244.355 (0) Number of backup sets in history: 0; groups (db): 1
+0244.357 (0) Number of backup sets in history: 0; groups (files): 1
+0244.360 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0244.376 (0) No backup of mu-plugins: excluded by user's options
+0244.380 (0) Beginning backup of other directories found in the content directory (index: 0)
+0244.383 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0244.385 (0) Looking for candidates to backup in: /var/www/html/wp-content
+0244.390 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0244.392 (0) finding files: backup-migration-config.php: skipping: excluded by options (glob)
+0244.394 (0) finding files: backup-migration-VOD5lsEhJW: skipping: excluded by options (glob)
+0244.396 (0) finding files: index.php: adding to list (1)
+0244.398 (0) finding files: plugins: skipping: this is the plugins directory
+0244.399 (0) finding files: themes: skipping: this is the themes directory
+0244.401 (0) finding files: updraft: skipping: this is the updraft directory
+0244.403 (0) finding files: upgrade: skipping: excluded by options
+0244.405 (0) finding files: upgrade-temp-backup: adding to list (2)
+0244.408 (0) finding files: uploads: skipping: this is the uploads directory
+0244.442 (0) Total entities for the zip file: 2 directories, 1 files (0 skipped as non-modified), 0 MB
+0244.496 (0) Creating zip file manifest (backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-others.zip.list-temp.tmp)
+0244.504 (0) Successfully created zip file manifest (size: 43)
+0244.534 (0) Created others zip (0) - 0.4 KB in 0.1 s (3.7 KB/s) (sha1: a796be8caadf362e072fc13858ea4f7d9a7428e9, sha256: 3970de8d90c6b9f8533f0ccef436c94fda79af7dca2c33b3a2ce80ce0fa513aa)
+0244.560 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0244.563 (0) No remote despatch: user chose no remote backup service
+0244.566 (0) Recording as successfully uploaded: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-others.zip
+0244.572 (0) Deleting zip manifest (backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-others.zip.list.tmp)
+0244.579 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0244.582 (0) Number of backup sets in history: 0; groups (db): 1
+0244.586 (0) Number of backup sets in history: 0; groups (files): 1
+0244.590 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0244.620 (0) Saving backup status to database (elements: 8)
+0244.625 (0) Beginning creation of database dump (WordPress DB)
+0244.628 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0244.811 (0) Table wp_options: Total expected rows (via COUNT): 241
+0244.814 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0244.985 (0) Table wp_options: Rows added in this batch (next record: 303): 238 (uncompressed bytes in this segment=1606800) in 0.24 seconds
+0245.015 (0) Table wp_options: finishing file(s) (2, 405.7 KB)
+0245.032 (0) Table wp_users: Total expected rows (via COUNT): 1
+0245.034 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0245.041 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1380) in 0.01 seconds
+0245.067 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0245.084 (0) Table wp_usermeta: Total expected rows (via COUNT): 20
+0245.087 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0245.090 (0) Table wp_usermeta: Rows added in this batch (next record: 20): 20 (uncompressed bytes in this segment=1830) in 0.01 seconds
+0245.118 (0) Table wp_usermeta: finishing file(s) (2, 1 KB)
+0245.134 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 13
+0245.137 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0245.141 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 18): 13 (uncompressed bytes in this segment=5567) in 0.01 seconds
+0245.168 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.2 KB)
+0245.188 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0245.194 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=606) in 0.01 seconds
+0245.222 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0245.236 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 3
+0245.240 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0245.245 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=725) in 0.01 seconds
+0245.272 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0245.292 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 14
+0245.294 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0245.298 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 14): 14 (uncompressed bytes in this segment=1873) in 0.01 seconds
+0245.324 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.6 KB)
+0245.344 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0245.349 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.01 seconds
+0245.378 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0245.394 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0245.397 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0245.404 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2141) in 0.01 seconds
+0245.434 (0) Table wp_comments: finishing file(s) (2, 0.7 KB)
+0245.452 (0) Table wp_links: Total expected rows (via COUNT): 0
+0245.460 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.01 seconds
+0245.490 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0245.507 (0) Table wp_postmeta: Total expected rows (via COUNT): 4
+0245.510 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0245.516 (0) Table wp_postmeta: Rows added in this batch (next record: 6): 4 (uncompressed bytes in this segment=1642) in 0.01 seconds
+0245.545 (0) Table wp_postmeta: finishing file(s) (2, 0.8 KB)
+0245.568 (0) Table wp_posts: Total expected rows (via COUNT): 6
+0245.571 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0245.575 (0) Table wp_posts: Rows added in this batch (next record: 7): 6 (uncompressed bytes in this segment=10287) in 0.01 seconds
+0245.605 (0) Table wp_posts: finishing file(s) (2, 3.1 KB)
+0245.619 (0) Table wp_term_relationships: Total expected rows (approximate): 0
+0245.626 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 1 (uncompressed bytes in this segment=702) in 0.01 seconds
+0245.650 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0245.666 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 4
+0245.669 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0245.676 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1082) in 0.01 seconds
+0245.703 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0245.725 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0245.730 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.01 seconds
+0245.759 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0245.774 (0) Table wp_terms: Total expected rows (via COUNT): 4
+0245.777 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0245.784 (0) Table wp_terms: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=853) in 0.01 seconds
+0245.810 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0245.829 (0) Table wp_aioseo_blc_cache: Total expected rows (via COUNT): 1
+0245.831 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0245.835 (0) Table wp_aioseo_blc_cache: Rows added in this batch (next record: 2): 1 (uncompressed bytes in this segment=967) in 0.01 seconds
+0245.862 (0) Table wp_aioseo_blc_cache: finishing file(s) (2, 0.5 KB)
+0245.880 (0) Table wp_aioseo_blc_link_status: Total expected rows (via COUNT): 0
+0245.886 (0) Table wp_aioseo_blc_link_status: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1215) in 0.01 seconds
+0245.912 (0) Table wp_aioseo_blc_link_status: finishing file(s) (2, 0.5 KB)
+0245.928 (0) Table wp_aioseo_blc_links: Total expected rows (via COUNT): 0
+0245.930 (0) Table wp_aioseo_blc_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1313) in 0.00 seconds
+0245.959 (0) Table wp_aioseo_blc_links: finishing file(s) (2, 0.5 KB)
+0245.980 (0) Table wp_aioseo_blc_notifications: Total expected rows (via COUNT): 0
+0245.984 (0) Table wp_aioseo_blc_notifications: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1687) in 0.01 seconds
+0246.016 (0) Table wp_aioseo_blc_notifications: finishing file(s) (2, 0.5 KB)
+0246.034 (0) Table wp_aioseo_blc_posts: Total expected rows (via COUNT): 0
+0246.038 (0) Table wp_aioseo_blc_posts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=646) in 0.01 seconds
+0246.065 (0) Table wp_aioseo_blc_posts: finishing file(s) (2, 0.4 KB)
+0246.089 (0) Table wp_aioseo_cache: Total expected rows (via COUNT): 13
+0246.092 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0246.103 (0) Table wp_aioseo_cache: Rows added in this batch (next record: 14): 13 (uncompressed bytes in this segment=96448) in 0.02 seconds
+0246.136 (0) Table wp_aioseo_cache: finishing file(s) (2, 18.9 KB)
+0246.152 (0) Table wp_aioseo_crawl_cleanup_blocked_args: Total expected rows (via COUNT): 0
+0246.158 (0) Table wp_aioseo_crawl_cleanup_blocked_args: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1047) in 0.01 seconds
+0246.183 (0) Table wp_aioseo_crawl_cleanup_blocked_args: finishing file(s) (2, 0.4 KB)
+0246.199 (0) Table wp_aioseo_crawl_cleanup_logs: Total expected rows (via COUNT): 0
+0246.202 (0) Table wp_aioseo_crawl_cleanup_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=883) in 0.01 seconds
+0246.227 (0) Table wp_aioseo_crawl_cleanup_logs: finishing file(s) (2, 0.4 KB)
+0246.248 (0) Table wp_aioseo_notifications: Total expected rows (via COUNT): 0
+0246.251 (0) Table wp_aioseo_notifications: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1710) in 0.01 seconds
+0246.281 (0) Table wp_aioseo_notifications: finishing file(s) (2, 0.5 KB)
+0246.301 (0) Table wp_aioseo_posts: Total expected rows (via COUNT): 0
+0246.306 (0) Table wp_aioseo_posts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=3643) in 0.01 seconds
+0246.333 (0) Table wp_aioseo_posts: finishing file(s) (2, 0.8 KB)
+0246.336 (0) PHP event: code E_WARNING: filemtime(): stat failed for /var/www/html/wp-content/updraft/backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db.gz (line 1925, wp-content/plugins/updraftplus/backup.php)
+0246.347 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_options.table.tmpr304.gz (1/26/fopen): adding to final database dump
+0246.742 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_options.table.gz (2/26/fopen): adding to final database dump
+0246.745 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_users.table.tmpr2.gz (3/26/fopen): adding to final database dump
+0246.751 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_users.table.gz (4/26/fopen): adding to final database dump
+0246.755 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_usermeta.table.tmpr21.gz (5/26/fopen): adding to final database dump
+0246.763 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_usermeta.table.gz (6/26/fopen): adding to final database dump
+0246.766 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_actionscheduler_actions.table.tmpr19.gz (7/26/fopen): adding to final database dump
+0246.774 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_actionscheduler_actions.table.gz (8/26/fopen): adding to final database dump
+0246.777 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/26/fopen): adding to final database dump
+0246.784 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_actionscheduler_claims.table.gz (10/26/fopen): adding to final database dump
+0246.787 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_actionscheduler_groups.table.tmpr4.gz (11/26/fopen): adding to final database dump
+0246.795 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_actionscheduler_groups.table.gz (12/26/fopen): adding to final database dump
+0246.798 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_actionscheduler_logs.table.tmpr15.gz (13/26/fopen): adding to final database dump
+0246.805 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_actionscheduler_logs.table.gz (14/26/fopen): adding to final database dump
+0246.808 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_commentmeta.table.tmpr0.gz (15/26/fopen): adding to final database dump
+0246.815 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_commentmeta.table.gz (16/26/fopen): adding to final database dump
+0246.818 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_comments.table.tmpr2.gz (17/26/fopen): adding to final database dump
+0246.824 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_comments.table.gz (18/26/fopen): adding to final database dump
+0246.827 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_links.table.tmpr0.gz (19/26/fopen): adding to final database dump
+0246.834 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_links.table.gz (20/26/fopen): adding to final database dump
+0246.837 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_postmeta.table.tmpr7.gz (21/26/fopen): adding to final database dump
+0246.844 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_postmeta.table.gz (22/26/fopen): adding to final database dump
+0246.847 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_posts.table.tmpr8.gz (23/26/fopen): adding to final database dump
+0246.855 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_posts.table.gz (24/26/fopen): adding to final database dump
+0246.859 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_term_relationships.table.tmpr100001.gz (25/26/fopen): adding to final database dump
+0246.866 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_term_relationships.table.gz (26/26/fopen): adding to final database dump
+0246.870 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_term_taxonomy.table.tmpr5.gz (27/26/fopen): adding to final database dump
+0246.877 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_term_taxonomy.table.gz (28/26/fopen): adding to final database dump
+0246.880 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_termmeta.table.tmpr0.gz (29/26/fopen): adding to final database dump
+0246.887 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_termmeta.table.gz (30/26/fopen): adding to final database dump
+0246.891 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_terms.table.tmpr5.gz (31/26/fopen): adding to final database dump
+0246.897 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_terms.table.gz (32/26/fopen): adding to final database dump
+0246.900 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_blc_cache.table.tmpr3.gz (33/26/fopen): adding to final database dump
+0246.907 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_blc_cache.table.gz (34/26/fopen): adding to final database dump
+0246.910 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_blc_link_status.table.tmpr0.gz (35/26/fopen): adding to final database dump
+0246.916 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_blc_link_status.table.gz (36/26/fopen): adding to final database dump
+0246.920 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_blc_links.table.tmpr0.gz (37/26/fopen): adding to final database dump
+0246.926 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_blc_links.table.gz (38/26/fopen): adding to final database dump
+0246.929 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_blc_notifications.table.tmpr0.gz (39/26/fopen): adding to final database dump
+0246.936 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_blc_notifications.table.gz (40/26/fopen): adding to final database dump
+0246.940 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_blc_posts.table.tmpr0.gz (41/26/fopen): adding to final database dump
+0246.946 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_blc_posts.table.gz (42/26/fopen): adding to final database dump
+0246.949 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_cache.table.tmpr15.gz (43/26/fopen): adding to final database dump
+0246.975 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_cache.table.gz (44/26/fopen): adding to final database dump
+0246.979 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_crawl_cleanup_blocked_args.table.tmpr0.gz (45/26/fopen): adding to final database dump
+0246.986 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_crawl_cleanup_blocked_args.table.gz (46/26/fopen): adding to final database dump
+0246.990 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_crawl_cleanup_logs.table.tmpr0.gz (47/26/fopen): adding to final database dump
+0246.997 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_crawl_cleanup_logs.table.gz (48/26/fopen): adding to final database dump
+0247.000 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_notifications.table.tmpr0.gz (49/26/fopen): adding to final database dump
+0247.009 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_notifications.table.gz (50/26/fopen): adding to final database dump
+0247.013 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_posts.table.tmpr0.gz (51/26/fopen): adding to final database dump
+0247.020 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db-table-wp_aioseo_posts.table.gz (52/26/fopen): adding to final database dump
+0247.162 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db.gz: finished writing out complete database file (440.7 KB)
+0247.354 (0) Total database tables backed up: 26 (backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db.gz, size: 451355, sha1: 27e522657b24bb74712d577100524399f87380e9, sha256: f6c2d50b2958e4c04e3c7b089f67e8a54b9cec3cc5a6dbb63195afbc09836fe3)
+0247.371 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-plugins.zip: plugins: This file has already been successfully uploaded
+0247.375 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-themes.zip: themes: This file has already been successfully uploaded
+0247.378 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-uploads.zip: uploads: This file has already been successfully uploaded
+0247.381 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-others.zip: others: This file has already been successfully uploaded
+0247.384 (0) backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db.gz: db: This file has not yet been successfully uploaded: will queue
+0247.390 (0) Saving backup history. Total backup size: 53.3 MB
+0247.397 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0247.407 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0247.410 (0) No remote despatch: user chose no remote backup service
+0247.413 (0) Recording as successfully uploaded: backup_2024-04-26-0630_Institutional_Advancement_Office_abd9df44c510-db.gz
+0247.423 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0247.427 (0) Number of backup sets in history: 1; groups (db): 1
+0247.431 (0) Examining (for databases) backup set with group_id=0, nonce=abd9df44c510, datestamp=1714113045 (Apr 26 2024 06:30:45)
+0247.433 (0) This backup set is the backup set just made, so will not be deleted.
+0247.434 (0) Number of backup sets in history: 1; groups (files): 1
+0247.437 (0) Examining (for files) backup set with nonce=abd9df44c510, datestamp=1714113045 (Apr 26 2024 06:30:45)
+0247.437 (0) This backup set is the backup set just made, so will not be deleted.
+0247.441 (0) This backup set is the backup set just made, so will not be deleted.
+0247.441 (0) This backup set is the backup set just made, so will not be deleted.
+0247.442 (0) This backup set is the backup set just made, so will not be deleted.
+0247.442 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0247.445 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0247.453 (0) Resume backup (abd9df44c510, 0): finish run
+0247.463 (0) Decremented the semaphore (fd) by 1
+0247.469 (0) Semaphore (fd) unlocked
+0247.472 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0247.485 (0) No email will/can be sent - the user has not configured an email address.
+0247.490 (0) The backup succeeded and is now complete
